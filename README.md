@@ -5,6 +5,7 @@ A React + TypeScript implementation of an auto-deleting todo list with categoriz
 ## Note 📝
 
 Even though I'm applying for a backend position but I think that this challenge looks fun so I want to try it out.
+[Live Demo](https://7solution-fe.vercel.app/)
 
 ## Features ✨
 
@@ -38,7 +39,7 @@ Even though I'm applying for a backend position but I think that this challenge 
    ```bash
    npm run dev
    ```
-## How It Works 🔄
+## How It Actually Works 🔄
 
 The application manages 3 main states:
 - **Main List**: Contains all available items
