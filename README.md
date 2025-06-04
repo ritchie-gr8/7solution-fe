@@ -5,7 +5,8 @@ A React + TypeScript implementation of an auto-deleting todo list with categoriz
 ## Note 📝
 
 Even though I'm applying for a backend position but I think that this challenge looks fun so I want to try it out.
-[Live Demo](https://7solution-fe.vercel.app/)
+
+**[Live Demo](https://7solution-fe.vercel.app/)**
 
 ## Features ✨
 
